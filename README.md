@@ -1,2 +1,0 @@
-# AtividadeLoadingscreen
- Atividade de PNT
